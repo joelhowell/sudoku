@@ -1,5 +1,5 @@
 # Sudoku Solver
-### Using backtracking
+#### Using backtracking
 
 *By: Joel Howell*
 
