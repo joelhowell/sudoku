@@ -1,5 +1,5 @@
 # Ignore compiled binaries
-.bin/
+bin/
 
 # Ignore vscode
-.vscode/
+vscode/
